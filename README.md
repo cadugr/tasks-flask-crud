@@ -2,6 +2,13 @@
 
 Este é um projeto de uma simples API RESTful para gerenciamento de tarefas, desenvolvido em Python com o framework Flask. O projeto foi criado como um estudo inicial sobre o desenvolvimento de APIs com Flask.
 
+## Frameworks e Bibliotecas
+
+O projeto utiliza as seguintes tecnologias:
+
+- **[Flask](https://flask.palletsprojects.com/):** Um microframework web para Python, utilizado como base para a construção da API.
+- **[Pytest](https://docs.pytest.org/):** Um framework de testes para Python, utilizado para garantir a qualidade e o funcionamento correto dos endpoints.
+
 ## Funcionalidades
 
 - Criar uma nova tarefa
